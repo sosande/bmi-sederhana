@@ -1,0 +1,10 @@
+# Hasil build Maven
+target/
+
+# File pribadi NetBeans
+nbproject/private/
+nb-configuration.xml
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
